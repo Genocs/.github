@@ -6,8 +6,8 @@ This is Genocs github home page. Here you can find our open source repositories.
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
-- [Genocs Official](https://www.genocs.com)
-- [Genocs blog](https://genocs.github.io)
+- [Official](https://www.genocs.com)
+- [Blog](https://genocs.github.io)
 
 🌈 Contribution guidelines - how can the community get involved?
 
