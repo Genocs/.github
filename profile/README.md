@@ -1,5 +1,5 @@
 # Welcome to Genocs 👋
-[cite: 1]
+
 <div align="center">
 
 <h3>Building Modern Enterprise Solutions</h3>
@@ -14,13 +14,13 @@
 ---
 
 ## 🚀 About Genocs
-[cite: 1]
-Genocs is an open-source organization dedicated to engineering enterprise-grade tools, libraries, and templates. We empower development teams to build scalable, maintainable, and highly resilient applications by leveraging industry best practices and modern architectural patterns.[cite: 1]
+
+Genocs is an open-source organization dedicated to engineering enterprise-grade tools, libraries, and templates. We empower development teams to build scalable, maintainable, and highly resilient applications by leveraging industry best practices and modern architectural patterns.
 
 ### Our Core Pillars
-*   **Architectural Excellence:** Starter templates designed around Clean Architecture, Microservices, and robust software design principles.[cite: 1]
-*   **Production Ready:** Focus on components that translate seamlessly from local development to cloud-scale enterprise environments.[cite: 1]
-*   **Developer Velocity:** Streamlining workflows so teams can focus on delivering business value, faster.[cite: 1]
+*   **Architectural Excellence:** Starter templates designed around Clean Architecture, Microservices, and robust software design principles.
+*   **Production Ready:** Focus on components that translate seamlessly from local development to cloud-scale enterprise environments.
+*   **Developer Velocity:** Streamlining workflows so teams can focus on delivering business value, faster.
 
 ---
 
@@ -28,11 +28,11 @@ Genocs is an open-source organization dedicated to engineering enterprise-grade 
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
-| **[Clean Architecture Template](https://github.com/Genocs/clean-architecture-template)**[cite: 1] | Enterprise-ready .NET template following DDD and clean architecture principles.[cite: 1] | `.NET` `C#`[cite: 1] |
-| **[Microservice Template](https://github.com/Genocs/microservice-template)**[cite: 1] | Production-ready, distributed microservices architecture architecture built with .NET.[cite: 1] | `.NET` `Docker`[cite: 1] |
-| **[Blazor WASM Template](https://github.com/Genocs/blazor-wasm-template)**[cite: 1] | Modern, high-performance web application template using Blazor WebAssembly.[cite: 1] | `Blazor` `WebAssembly`[cite: 1] |
-| **[QR Code Library](https://github.com/Genocs/qrcode)**[cite: 1] | Lightweight, zero-dependency, and highly efficient QR code generation utility.[cite: 1] | `.NET` `C#`[cite: 1] |
-| **[PDF Document Generator](https://github.com/Genocs/fonet)**[cite: 1] | Enterprise PDF generator engine based on the robust FONET library.[cite: 1] | `.NET` `FONET`[cite: 1] |
+| **[Clean Architecture Template](https://github.com/Genocs/clean-architecture-template)** | Enterprise-ready .NET template following DDD and clean architecture principles. | `.NET` `C#` |
+| **[Microservice Template](https://github.com/Genocs/microservice-template)** | Production-ready, distributed microservices architecture architecture built with .NET. | `.NET` `Docker` |
+| **[Blazor WASM Template](https://github.com/Genocs/blazor-wasm-template)** | Modern, high-performance web application template using Blazor WebAssembly. | `Blazor` `WebAssembly`|
+| **[QR Code Library](https://github.com/Genocs/qrcode)** | Lightweight, zero-dependency, and highly efficient QR code generation utility. | `.NET` `C#` |
+| **[PDF Document Generator](https://github.com/Genocs/fonet)** | Enterprise PDF generator engine based on the robust FONET library. | `.NET` `FONET` |
 
 ---
 
@@ -40,11 +40,11 @@ Genocs is an open-source organization dedicated to engineering enterprise-grade 
 [cite: 1]
 Our ecosystem leverages industry-standard technologies to ensure long-term stability and performance:[cite: 1]
 
-*   **Backend:** `C# / .NET` `Python`[cite: 1]
-*   **Frontend:** `Blazor (WASM)` `React`[cite: 1]
-*   **Architecture & Patterns:** `Clean Architecture` `Microservices` `CQRS` `DDD`[cite: 1]
-*   **Databases & Storage:** `SQL Server` `PostgreSQL` `MongoDB`[cite: 1]
-*   **Cloud & Infrastructure:** `Azure` `AWS Ecosystem` `Docker`[cite: 1]
+*   **Backend:** `C# / .NET` `Python`
+*   **Frontend:** `Blazor (WASM)` `React`
+*   **Architecture & Patterns:** `Clean Architecture` `Microservices` `CQRS` `DDD`
+*   **Databases & Storage:** `SQL Server` `PostgreSQL` `MongoDB`
+*   **Cloud & Infrastructure:** `Azure` `AWS Ecosystem` `Docker`
 
 ---
 
