@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Building Modern Enterprise Solutions with Open Source**
+**Building Modern Enterprise Solutions**
 
 [![Website](https://img.shields.io/badge/Website-genocs.com-blue?style=flat-square)](https://www.genocs.com)
 [![Blog](https://img.shields.io/badge/Blog-Read%20Articles-green?style=flat-square)](https://genocs.github.io)
@@ -12,7 +12,7 @@
 
 ## 🚀 About Genocs
 
-Genocs is an open-source organization dedicated to providing enterprise-grade application templates and tools. We focus on delivering clean architecture solutions that help developers build scalable, maintainable, and production-ready applications using modern technologies.
+Genocs is an organization dedicated to providing open source enterprise-grade tools, libraries and templates to build software applications. We focus on delivering solutions that help developers build scalable, maintainable, and production-ready applications using modern technologies.
 
 Our mission is to accelerate development workflows by providing well-architected starter templates that embody best practices in software design.
 
@@ -22,6 +22,7 @@ Our mission is to accelerate development workflows by providing well-architected
 - **[Microservice Template](https://github.com/Genocs/microservice-template)** - Production-ready microservices architecture with .NET
 - **[Blazor WASM Template](https://github.com/Genocs/blazor-wasm-template)** - Modern web application template using Blazor WebAssembly
 - **[QR Code Library](https://github.com/Genocs/qrcode)** - Lightweight and efficient QR code generation library
+- **[PDF document generator Library](https://github.com/Genocs/fonet)** - PDF generator with based on FONET library 
 
 ## 🤝 Contributing
 
@@ -67,9 +68,6 @@ Our templates and tools are built with modern technologies including:
 ---
 
 <div align="center">
-
 **Built with ❤️ by the Genocs Team**
-
 *Empowering developers to build better software, faster*
-
 </div>
