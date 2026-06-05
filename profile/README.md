@@ -37,8 +37,8 @@ Genocs is an open-source organization dedicated to engineering enterprise-grade 
 ---
 
 ## 💡 Tech Stack & Ecosystem
-[cite: 1]
-Our ecosystem leverages industry-standard technologies to ensure long-term stability and performance:[cite: 1]
+
+Our ecosystem leverages industry-standard technologies to ensure long-term stability and performance:
 
 *   **Backend:** `C# / .NET` `Python`
 *   **Frontend:** `Blazor (WASM)` `React`
